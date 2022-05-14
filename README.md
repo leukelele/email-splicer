@@ -1,2 +1,2 @@
-# email-splicer
+# email_splicer
  Separates the username and domain
